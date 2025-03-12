@@ -47,9 +47,9 @@ Este projeto implementa um sistema bancário simples em Python, permitindo a cri
 
 ## Melhorias Futuras
 
--      Implementar persistência de dados (arquivos ou banco de dados).
--      Adicionar mais validações de entrada.
--      Melhorar a interface do usuário.
+-   Implementar persistência de dados (arquivos ou banco de dados).
+-   Adicionar mais validações de entrada.
+-   Melhorar a interface do usuário.
 -   Implementar transferências entre contas.
 -   Implementar uma função para o usuário poder alterar seu endereço e nome.
 -   Implementar uma função para o usuário poder excluir sua conta.
